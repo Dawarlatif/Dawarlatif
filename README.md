@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawarlatif
-- 👀 I’m interested in full stack mobile app development.   
-- 🌱 I’m currently learning mobile app development.
+- 👀 I’m interested in full-stack app development.   
+- 🌱 I’m currently exploring various JS frameworks.
 - 💞️ I’m looking to collaborate on app Architecture.
 - 📫 How to reach me dawarlatif30@gmail.com 
 
